@@ -4,4 +4,4 @@ Simple working linear regression machine learning model which helps to predict t
 The regression model is trained on the premier league table standings from 1995/96 to 2019/20.
 
 
-![image](https://user-images.githubusercontent.com/71927343/183706483-3ccba62b-933a-4dc2-93dd-c40d7ac76126.png)
+![image](https://user-images.githubusercontent.com/71927343/183707770-243d379e-f285-4c25-91f8-e01e62da73e0.png)
